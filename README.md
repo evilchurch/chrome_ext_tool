@@ -1,6 +1,6 @@
-<p align="center"><img src="./static/icon.png"></p>
-
 <p align="center">
+  <img src="./static/icon.png">
+  <br>
   <img src="https://img.shields.io/travis/rust-lang/rust.svg" alt="Build Status">
   <img src="https://img.shields.io/badge/coverage-100%25-brightgreen.svg" alt="Coverage Status">
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="License">
